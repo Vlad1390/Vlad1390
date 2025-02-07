@@ -16,10 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/vlad1390/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
 | Investigating Logs with ELK                   | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link]
@@ -27,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
+ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
@@ -39,4 +37,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/vlad1390/Detection-Lab/tree/main">Detection Lab</a>
 - Detection Lab
-- SOC Automation Project
