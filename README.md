@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/vlad1390/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Investigating Logs with ELK                   | SOC Automation Lab|
+| Investigating Logs with ELK                   |ELK 101|
 
 
 ## Tools
